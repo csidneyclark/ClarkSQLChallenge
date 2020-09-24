@@ -1,4 +1,4 @@
-# ClarkSQLChallenge
+# Company Employee Data
 
 ## Background
 
