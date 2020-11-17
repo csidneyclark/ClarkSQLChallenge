@@ -34,8 +34,6 @@ Once you have a complete database, do the following:
 
 ## Additional Analysis
 
- your boss:
-
 1. Import the SQL database into Pandas. (Yes, you could read the CSVs directly in Pandas, but you are, after all, trying to prove your technical mettle.) This step may require some research. 
 
 2. Create a histogram to visualize the most common salary ranges for employees.
